@@ -1,0 +1,13 @@
+@import url(_reset.css);
+@import url(_variaveis.css);
+
+body {
+    background: var(--cor-fundo);
+
+    color: var(--cor-texto);
+}
+
+.container {
+    margin-left: .5rem;
+    margin-right: .5rem;
+}

@@ -1,0 +1,63 @@
+let numeroUm = 1;
+let stringUm = "1";
+let numeroTrinta = 30;
+let stringTrinta = "30";
+let numeroDez = 10;
+let stringDez = "10";
+
+console.log("teste com ==");
+if (numeroUm == stringUm) {
+  console.log(
+    "As variaveis numeroUm e stringUm tem o mesmo valor, mas tipos diferentes"
+  );
+} else {
+  console.log("As variáveis numeroUm e stringUm não tem o mesmo valor");
+}
+
+console.log("teste com ===");
+if (numeroUm === stringUm) {
+  console.log(
+    "As variaveis numeroUm e stringUm tem o mesmo valor, mas tipos diferentes"
+  );
+} else {
+  console.log("As variáveis numeroUm e stringUm não tem o mesmo valor");
+}
+
+//=====================================================================================================
+console.log("teste com ==");
+if (numeroDez == stringDez) {
+  console.log(
+    "As variáveis numeroDez e a stringDez tem um mesmo valor, mas tipos diferentes"
+  );
+} else {
+  console.log("A variavel numeroDez e stringDez não tem o mesmo valor");
+}
+
+console.log("teste com ===");
+if (numeroDez === stringDez) {
+  console.log(
+    "As variáveis numeroDez e a stringDez tem um mesmo valor, mas tipos diferentes"
+  );
+} else {
+  console.log("A variavel numeroDez e stringDez não tem o mesmo valor");
+}
+
+//=====================================================================================================
+console.log("teste com ==");
+if (numeroTrinta == stringTrinta) {
+  console.log(
+    "As variáveis numeroTrinta e stringTrinra tem o mesmo valor, mas tipos diferentes"
+  );
+} else {
+  console.log("As variáveis numeroTrinta e stringTrinta não tem o mesmo valor");
+}
+
+console.log("teste com ===");
+if (numeroTrinta === stringTrinta) {
+  console.log(
+    "As variáveis numeroTrinta e stringTrinra tem o mesmo valor, mas tipos diferentes"
+  );
+} else {
+  console.log("As variáveis numeroTrinta e stringTrinta não tem o mesmo valor");
+}
+ 

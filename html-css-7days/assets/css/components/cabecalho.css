@@ -1,0 +1,41 @@
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2.5rem 2rem;
+}
+
+.cabecalho__imagem {
+    width: 9.8rem;
+    height: 2rem;
+
+    cursor: pointer;
+}
+
+.cabecalho__menu-nav {
+    width: 30vw;
+}
+
+.cabecalho__menu-lista {
+    display: flex;
+    justify-content: space-evenly;
+
+    list-style: none;
+}
+
+.cabecalho__menu-item {
+    align-items: center;
+    padding: 4px 0px;
+}
+
+.cabecalho__menu--link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.cabecalho__botao {
+    display: flex;
+    align-items: center;
+}
