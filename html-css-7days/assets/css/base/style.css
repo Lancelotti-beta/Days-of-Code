@@ -1,13 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 @import url(_reset.css);
 @import url(_variaveis.css);
 
 body {
-    background: var(--cor-fundo);
+    font-family: var(--fonte-texto);
+    font-weight: var(--peso-baixo);
+    font-style: normal;
 
     color: var(--cor-texto);
+    background: var(--cor-main-fundo);
 }
 
 .container {
-    margin-left: .5rem;
-    margin-right: .5rem;
+    max-width: 1440px;
+    width: auto;
+
+    margin-left: auto;
+    margin-right: auto;
 }

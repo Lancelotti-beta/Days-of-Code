@@ -1,7 +1,17 @@
 :root {
-    --cor-fundo: #fff;
+    --cor-main-fundo: #fff;
+    --cor-footer: #F9FAFB;
+    --cor-container-depoimento: rgba(196, 25, 25, 0.03);
 
+    --cor-branco: #ffffff;
     --cor-destaque: #8E2424;
     --cor-texto: #667085;
     --cor-titulos: #101828;
+
+    --fonte-texto: 'Inter', sans-serif;
+
+    --peso-baixo: 400;
+    --peso-medio: 500;
+    --peso-alto: 600;
+
 }
