@@ -1,0 +1,72 @@
+>>>> Cabeçalho
+
+Sobre nós
+
+Por que somos diferentes?
+
+Nós focamos nos detalhes de tudo que fazemos. Tudo para ajudar as empresas de todo o mundo a se concentrarem naquilo que � realmente importante para elas.
+
+>>>> Métricas
+
+400+
+Projetos concluídos
+Nós ajudamos a construir mais de 400 projetos incríveis.
+
+100+
+Colaboradores
+Temos mais de 100 colaboradores no nosso time que se preocupam com nossos clientes.
+
+20k
+Downloads
+Nossos projetos que estão disponíveis em lojas já foram baixados mais de 20.000 vezes.
+
+500+
+Reviews 5 estrelas
+Estamos orgulhosos de contar com mais de 500 reviews 5 estrelas em nossos produtos.
+
+>>>> Vagas
+Vagas abertas!
+
+Estamos procurando por talentos
+
+Somos uma equipe 100% remota com pessoas do Brasil inteiro.
+
+<img>
+
+Design
+
+Product Designer
+Full-time Faixa salarial: R$7.000
+UX Designer
+Full-time Faixa salarial: R$6.000
+
+Desenvolvimento de Software
+Desenvolvedor(a) Front-end
+Full-time Faixa salarial: R$7.000
+Desenvolvedor(a) iOS
+Full-time Faixa salarial: R$8.000
+Desenvolvedor(a) Back-end
+Full-time Faixa salarial: R$8.000
+
+>>>> Depoimenetos
+
+Veja o que nossos colaboradores falam sobre nós
+
+OptimusTech se importa com a saúde dos seus colaboradores e sempre procura nos dar todo tipo de auxílio possível.
+
+<img>
+Júlia Castro
+
+>>>> Formulário | Footer
+
+Acompanhe as nossas oportunidades
+
+Seja o primeiro a saber quando novas vagas serão abertas!
+
+<div>
+    <input placeholder="Seu e-mail" aria-label="Seu e-mail">
+    <button class="botao">Cadastrar</button>
+</div>
+
+2022 OptimusTech. Todos os direitos reservados.
+Desenvolvedora Web
