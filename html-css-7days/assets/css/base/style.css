@@ -4,6 +4,7 @@
 
 body {
     font-family: var(--fonte-texto);
+    font-style: normal;
     font-weight: var(--peso-baixo);
     font-size: 1rem;
     font-style: normal;

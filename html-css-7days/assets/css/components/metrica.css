@@ -1,0 +1,32 @@
+.metrica {
+    padding: 0px 0px 96px;
+}
+
+.metrica__conteudo {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    padding: 0px 32px;
+    gap: 32px;
+}
+
+.metrica__conteudo-item {
+    padding: 0px;
+    gap: 22px;
+}
+
+.metrica__titulo-destaque {
+    font-size: 60px;
+    line-height: 72px;
+}
+
+.metrica__titulo-subtitulo {
+    font-weight: var(--peso-medio);
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.metrica--texto {
+    font-size: 1rem;
+    line-height: 24px;
+}
