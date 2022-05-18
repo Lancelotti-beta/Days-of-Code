@@ -26,8 +26,8 @@ body {
 
 .titulo__destaque {
     font-weight: var(--peso-alto);
-    font-size: 48px;
-    line-height: 60px;
+    font-size: 3rem;
+    line-height: 3.75rem;
 
     color: var(--cor-titulos);
 }
@@ -35,12 +35,12 @@ body {
 .titulo__sub-titulo {
     font-weight: var(--peso-alto);
     font-size: inherit;
-    line-height: 24px;
+    line-height: 1.5rem;
 
     color: var(--cor-destaque);
 }
 
 .texto {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 1.3rem;
+    line-height: 1.875rem;
 }

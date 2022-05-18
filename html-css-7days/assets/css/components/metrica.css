@@ -1,32 +1,32 @@
 .metrica {
-    padding: 0px 0px 96px;
+    padding: 0 0 6rem;
 }
 
 .metrica__conteudo {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 
-    padding: 0px 32px;
-    gap: 32px;
+    padding: 0px 2rem;
+    gap: 2rem;
 }
 
 .metrica__conteudo-item {
-    padding: 0px;
-    gap: 22px;
+    padding: 0;
+    gap: 1.375rem;
 }
 
 .metrica__titulo-destaque {
-    font-size: 60px;
-    line-height: 72px;
+    font-size: 3.75rem;
+    line-height: 4.5rem;
 }
 
 .metrica__titulo-subtitulo {
     font-weight: var(--peso-medio);
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
 }
 
 .metrica--texto {
     font-size: 1rem;
-    line-height: 24px;
+    line-height: 1.5rem;
 }

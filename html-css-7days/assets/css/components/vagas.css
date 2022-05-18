@@ -1,0 +1,42 @@
+.vagas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 6rem 0;
+    gap: 4rem;
+}
+
+.vagas-alinha-centro {
+    text-align: center;
+}
+
+.vaga-container {
+    gap: 1.25rem;
+}
+
+.vagas__talentos {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    padding: 0 2rem;
+    gap: 1rem;
+}
+
+.vagas-borda {
+    padding: .25rem .75rem;
+
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+
+    width: 125px;
+}
+
+.vagas-imagem {
+    padding-top: 4rem;
+}
+
+/* .vagas__abertas{} */
