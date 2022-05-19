@@ -1,0 +1,79 @@
+.depoimentos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0 6rem;
+}
+
+.depoimentos__conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 4rem;
+    gap: 2rem;
+
+    min-width: 1216px;
+    width: auto;
+
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+}
+
+.depoimentos__titulo-imagem {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    align-items: center;
+
+    gap: 1rem;
+}
+
+.depoimentos__titulo-imagem::before {
+    content: "";
+
+    display: block;
+
+    height: 56px;
+    width: 56px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../../img/Avatar.png);
+}
+
+/* Textos da Sessão de Depoimentos */
+.depoimentos-titulo {
+    font-weight: var(--peso-medio);
+    font-size: 2.25rem;
+    line-height: 2.75rem;
+
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+
+.depoimentos-subtitulo {
+    font-size: .875rem;
+    line-height: 1.25rem;
+
+    text-align: center;
+}
+
+.depoimentos__titulo-name {
+    font-weight: var(--peso-medio);
+    font-size: 1rem;
+    line-height: 1.5rem;
+
+    color: var(--cor-titulos);
+}
+
+.depoimentos-texto {
+    font-weight: var(--peso-baixo);
+    font-size: .875rem;
+    line-height: 1.25rem;
+
+    color: var(--cor-texto);
+}
