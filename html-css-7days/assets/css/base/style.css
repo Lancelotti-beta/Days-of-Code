@@ -38,6 +38,8 @@ footer {
     font-size: 3rem;
     line-height: 3.75rem;
 
+    letter-spacing: -0.02em;
+
     color: var(--cor-titulos);
 }
 
@@ -50,6 +52,6 @@ footer {
 }
 
 .texto {
-    font-size: 1.3rem;
+    font-size: 1.25rem;
     line-height: 1.875rem;
 }
